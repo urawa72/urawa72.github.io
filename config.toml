@@ -47,7 +47,7 @@ katex = false
 
 # Google Analytics
 # If using this, add a value like "UA—XXXXXXXX-X"
-google_analytics = ""
+google_analytics = "G-W4BVR3XW5F"
 
 # Whether to use Disqus globally and set to your disqus id
 # or you can enable the disqus on per post page with `extra.disqus` option
