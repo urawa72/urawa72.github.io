@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://urawa72.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://urawa72.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://urawa72.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://urawa72.github.io/categories/sample/</loc>
+    </url>
+    <url>
+        <loc>https://urawa72.github.io/post/</loc>
+    </url>
+    <url>
+        <loc>https://urawa72.github.io/post/hello-world/</loc>
+        <lastmod>2022-06-05</lastmod>
+    </url>
+    <url>
+        <loc>https://urawa72.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://urawa72.github.io/tags/sample/</loc>
+    </url>
+</urlset>
